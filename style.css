@@ -1,0 +1,21 @@
+body {
+  margin-top: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+
+.img_icon {
+  width: 150px;
+}
+
+.card {
+  width: 400px;
+  margin : 10px auto;
+  padding: 20px;
+  display : flex;
+  justify-content: space-around;
+  text-align: left;
+  background-color: white;
+  color: rgb(51, 50, 50);
+  border: 2px solid;
+  
+}
+
